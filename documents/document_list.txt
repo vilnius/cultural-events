@@ -3,9 +3,9 @@ Azijos\ menu\ centras_veiklos\ ataskaita_2016.doc
 Azijos\ menu\ centras_veiklos\ ataskaita_2016.xlsx
 Azijos\ menu\ centras_veiklos\ ataskaita_2017.doc
 Azijos\ menu\ centras_veiklos\ ataskaita_2018.xlsx
-Azijos\ menu\ centras_veiklos\ ataskaita_2019.xlsx
-Azijos\ menu\ centras_veiklos\ ataskaitos\ priedas_2018.docx
-Azijos\ menu\ centras_veiklos\ ataskaitos\ priedas_2019.docx
+Azijos\ menu\ centras_Veiklos\ ataskaita_2019.xlsx
+Azijos\ menu\ centras_Veiklos\ ataskaitos\ priedas_2018.docx
+Azijos\ menu\ centras_Veiklos\ ataskaitos\ priedas_2019.docx
 Azijos\ menu\ centras_veiklos\ planas_2016.doc
 Azijos\ menu\ centras_veiklos\ planas_2017.doc
 Azijos\ menu\ centras_veiklos\ planas_2018.doc
@@ -14,6 +14,36 @@ Azijos\ menu\ centras_veiklos\ planas_2019.xlsx
 Azijos\ menu\ centras_veiklos\ plano\ priedas_2018.docx
 Azijos\ menu\ centras_veiklos\ plano\ priedas_2019.docx
 Azijos\ menu\ centras_veiklos\ rezultatu\ ataskaita_2015.xlsx
+Centrinė\ biblioteka_finansinė\ ataskaita_2015.pdf
+Centrinė\ biblioteka_finansinė\ ataskaita_2016.pdf
+Centrinė\ biblioteka_finansinė\ ataskaita_2017.pdf
+Centrinė\ biblioteka_finansinė\ ataskaita_2018.pdf
+Centrinė\ biblioteka_finansinė\ ataskaita_2019.pdf
+Centrinė\ biblioteka_veiklos\ ataskaita_2015.doc
+Centrinė\ biblioteka_veiklos\ ataskaita_2016.docx
+Centrinė\ biblioteka_veiklos\ ataskaita_2017.docx
+Centrinės\ bibliotekos_veiklos\ ataskaita_2018.xlsx
+Centrinės\ bibliotekos_veiklos\ ataskaita_2019.xlsx
+Centrinės\ bibliotekos_veiklos\ ataskaitos\ priedas_2019.docx
+Centrinės\ bibliotekos_veiklos\ planas_2015.doc
+Centrinės\ bibliotekos_veiklos\ planas_2016.doc
+Centrinės\ bibliotekos_veiklos\ planas_2017.docx
+Centrinės\ bibliotekos_veiklos\ planas_2018.xlsx
+Centrinės\ bibliotekos_veiklos\ planas_2019.xlsx
+Centrinės\ bibliotekos_veiklos\ plano\ priedas_2018.docx
+Centrinės\ bibliotekos_veiklos\ plano\ priedas_2019.docx
+Centrinės\ bibliotekos_veiklos\ rezultatų\ ataskaita_2018.docx
+Choro\ Jauna\ muzika_veiklos\ ataskaita_2016.docx
+Choro\ Jauna\ muzika_veiklos\ ataskaita_2016.pdf
+Choro\ Jauna\ muzika_veiklos\ ataskaita_2017.docx
+Choro\ Jauna\ muzika_veiklos\ ataskaita_2017.xlsx
+Choro\ Jauna\ muzika_veiklos\ ataskaita_2018.xlsx
+Choro\ Jauna\ muzika_veiklos\ ataskaita_2019.xlsx
+Choro\ Jauna\ muzika_veiklos\ planas_2015.pdf
+Choro\ Jauna\ muzika_veiklos\ planas_2016.pdf
+Choro\ Jauna\ muzika_veiklos\ planas_2017.pdf
+Choro\ Jauna\ muzika_veiklos\ planas_2018.xlsx
+Choro\ Jauna\ muzika_veiklos\ planas_2019.xlsx
 document_list.txt
 Energetikos\ ir\ technikos\ muziejus_veiklos\ ataskaita_2015.doc
 Energetikos\ ir\ technikos\ muziejus_veiklos\ ataskaita_2016.docx
@@ -32,6 +62,146 @@ Energetikos\ ir\ technikos\ muziejus_veiklos\ rezultatu\ ataskaita_2016.xls
 Energetikos\ ir\ technikos\ muziejus_veiklos\ rezultatu\ ataskaita_2017.xls
 Energetikos\ ir\ technikos\ muziejus_veiklos\ rezultatu\ ataskaita_2018.xls
 Energetikos\ ir\ technikos\ muziejus_veiklos\ rezultatu\ ataskaita_2019.xls
+Etninės\ kultūros\ centras_veiklos\ ataskaita_2015.xls
+Etninės\ kultūros\ centras_veiklos\ ataskaita_2016.docx
+Etninės\ kultūros\ centras_veiklos\ ataskaita_2016.xls
+Etninės\ kultūros\ centras_veiklos\ ataskaita_2017.xls
+Etninės\ kultūros\ centras_veiklos\ ataskaita_2017.xlsx
+Etninės\ kultūros\ centras_veiklos\ ataskaita_2018.xlsx
+Etninės\ kultūros\ centras_veiklos\ ataskaita_2019.xlsx
+Etninės\ kultūros\ centras_veiklos\ ataskaitos\ priedas_2015.xls
+Etninės\ kultūros\ centras_veiklos\ ataskaitos\ priedas_2016.xls
+Etninės\ kultūros\ centras_veiklos\ ataskaitos\ priedas_2018.docx
+Etninės\ kultūros\ centras_veiklos\ ataskaitos\ priedas_2018.xlsx
+Etninės\ kultūros\ centras_veiklos\ ataskaitos\ priedas_2019.docx
+Etninės\ kultūros\ centras_veiklos\ planas_2015.docx
+Etninės\ kultūros\ centras_veiklos\ planas_2016.docx
+Etninės\ kultūros\ centras_veiklos\ planas_2017.docx
+Etninės\ kultūros\ centras_veiklos\ planas_2018.xlsx
+Etninės\ kultūros\ centras_veiklos\ planas_2019.xlsx
+Etninės\ kultūros\ centras_veiklos\ planas_2020.xlsx
+Etninės\ kultūros\ centras_veiklos\ plano\ priedas_2019.docx
+Etninės\ kultūros\ centras_veiklos\ plano\ priedas_2020.docx
+Grigiškių\ kultūros\ centras_finansinė\ ataskaita_2015.pdf
+Grigiškių\ kultūros\ centras_finansinė\ ataskaita_2016.pdf
+Grigiškių\ kultūros\ centras_finansinė\ ataskaita_2017.pdf
+Grigiškių\ kultūros\ centras_finansinė\ ataskaita_2018.pdf
+Grigiškių\ kultūros\ centras_finansinė\ ataskaita_2019.pdf
+Grigiškių\ kultūros\ centras_veiklos\ ataskaita_2015.doc
+Grigiškių\ kultūros\ centras_veiklos\ ataskaita_2016.doc
+Grigiškių\ kultūros\ centras_veiklos\ ataskaita_2017.doc
+Grigiškių\ kultūros\ centras_veiklos\ ataskaita_2017.docx
+Grigiškių\ kultūros\ centras_veiklos\ ataskaita_2018.xlsx
+Grigiškių\ kultūros\ centras_veiklos\ ataskaita_2019.doc
+Grigiškių\ kultūros\ centras_veiklos\ ataskaita_2019.xlsx
+Grigiškių\ kultūros\ centras_veiklos\ ataskaita_2020.doc
+Grigiškių\ kultūros\ centras_veiklos\ ataskaitos\ priedas_2018.doc
+Grigiškių\ kultūros\ centras_veiklos\ ataskaitos\ priedas_2019.doc
+Grigiškių\ kultūros\ centras_veiklos\ planas_2015.doc
+Grigiškių\ kultūros\ centras_veiklos\ planas_2016.doc
+Grigiškių\ kultūros\ centras_veiklos\ planas_2018.doc
+Grigiškių\ kultūros\ centras_veiklos\ plano\ priedas_2018.doc
+Grigiškių\ kultūros\ centras_veiklos\ plano\ priedas_2019.doc
+Grigiškių\ kultūros\ centras_veiklos\ plano\ priedas_2020.doc
+J.\ ir\ M.\ Šlapelių\ muziejus_finansinė\ ataskaita_2015.pdf
+J.\ ir\ M.\ Šlapelių\ muziejus_finansinė\ ataskaita_2016.pdf
+J.\ ir\ M.\ Šlapelių\ muziejus_finansinė\ ataskaita_2017.pdf
+J.\ ir\ M.\ Šlapelių\ muziejus_finansinė\ ataskaita_2018.pdf
+J.\ ir\ M.\ Šlapelių\ muziejus_finansinė\ ataskaita_2019.pdf
+J.\ ir\ M.\ Šlapelių\ muziejus_veiklos\ ataskaita_2015.doc
+J.\ ir\ M.\ Šlapelių\ muziejus_veiklos\ ataskaita_2016.doc
+J.\ ir\ M.\ Šlapelių\ muziejus_veiklos\ ataskaita_2017.doc
+J.\ ir\ M.\ Šlapelių\ muziejus_veiklos\ ataskaita_2017.xls
+J.\ ir\ M.\ Šlapelių\ muziejus_veiklos\ ataskaita_2019.pdf
+J.\ ir\ M.\ Šlapelių\ muziejus_veiklos\ ataskaita_2019.xls
+J.\ ir\ M.\ Šlapelių\ muziejus_veiklos\ ataskaitos\ priedas_2017.doc
+J.\ ir\ M.\ Šlapelių\ muziejus_veiklos\ ataskaitos\ priedas_2019.doc
+J.\ ir\ M.\ Šlapelių\ muziejus_veiklos\ planas_2015.doc
+J.\ ir\ M.\ Šlapelių\ muziejus_veiklos\ planas_2016.doc
+J.\ ir\ M.\ Šlapelių\ muziejus_veiklos\ planas_2018.xls
+J.\ ir\ M.\ Šlapelių\ muziejus_veiklos\ planas_2019.xls
+J.\ ir\ M.\ Šlapelių\ muziejus_veiklos\ plano\ priedas_2018.doc
+J.\ ir\ M.\ Šlapelių\ muziejus_veiklos\ plano\ priedas_2019.doc
+Kirtimų\ kultūros\ centras_finansinė\ ataskaita_2015.pdf
+Kirtimų\ kultūros\ centras_finansinė\ ataskaita_2016.pdf
+Kirtimų\ kultūros\ centras_finansinė\ ataskaita_2017.pdf
+Kirtimų\ kultūros\ centras_finansinė\ ataskaita_2018.pdf
+Kirtimų\ kultūros\ centras_finansinė\ ataskaita_2019.pdf
+Kirtimų\ kultūros\ centras_veiklos\ ataskaita_2015.doc
+Kirtimų\ kultūros\ centras_veiklos\ ataskaita_2016.docx
+Kirtimų\ kultūros\ centras_veiklos\ ataskaita_2017.docx
+Kirtimų\ kultūros\ centras_veiklos\ ataskaita_2018.xlsx
+Kirtimų\ kultūros\ centras_veiklos\ ataskaita_2019.xlsx
+Kirtimų\ kultūros\ centras_veiklos\ ataskaitos\ priedas_2018.docx
+Kirtimų\ kultūros\ centras_veiklos\ ataskaitos\ priedas_2019.docx
+Kirtimų\ kultūros\ centras_veiklos\ planas_2015.doc
+Kirtimų\ kultūros\ centras_veiklos\ planas_2016.doc
+Kirtimų\ kultūros\ centras_veiklos\ planas_2017.docx
+Kirtimų\ kultūros\ centras_veiklos\ planas_2018.xlsx
+Kirtimų\ kultūros\ centras_veiklos\ planas_2019.xlsx
+Kirtimų\ kultūros\ centras_veiklos\ plano\ priedas_2018.docx
+Kirtimų\ kultūros\ centras_veiklos\ plano\ priedas_2019.DOCX
+Kristaforo\ orkestras_veiklos\ ataskaita_2017.xlsx
+Kristaforo\ orkestras_veiklos\ ataskaita_2018.xlsx
+Kristaforo\ orkestras_veiklos\ ataskaita_2019.xlsx
+Kristaforo\ orkestras_veiklos\ ataskaitos\ priedas_2017.docx
+Kristaforo\ orkestras_veiklos\ ataskaitos\ priedas_2018.docx
+Kristaforo\ orkestras_veiklos\ ataskaitos\ priedas_2019.docx
+Kristoforo\ orkestras_veiklos\ ataskaita_2016.pdf
+Kultūros\ centras_finansinė\ ataskaita_2019.pdf
+Kultūros\ centras_metinė\ ataskaita_2019.docx
+Kultūros\ centras_veiklos\ ataskaita_2015.pdf
+Kultūros\ centras_veiklos\ ataskaita_2016.pdf
+Kultūros\ centras_veiklos\ ataskaita_20162.pdf
+Kultūros\ centras_veiklos\ ataskaitos\ forma_2020.xlsx
+Kultūros\ centras_veiklos\ planas_2016.doc
+Kultūros\ centras_veiklos\ planas_2020.docx
+Kultūros\ centras_veiklos\ plano\ forma_2020.xlsx
+Kultūros\ centras_veiklos\ rezultatų\ ataskaita_2015.pdf
+Kultūros\ centras_veiklos\ rezultatų\ ataskaita_2016.pdf
+Literatūrinis\ A.\ Puškino\ muziejus_finansinė\ ataskaita_2015.pdf
+Literatūrinis\ A.\ Puškino\ muziejus_finansinė\ ataskaita_2016.pdf
+Literatūrinis\ A.\ Puškino\ muziejus_finansinė\ ataskaita_2017.pdf
+Literatūrinis\ A.\ Puškino\ muziejus_finansinė\ ataskaita_2018.pdf
+Literatūrinis\ A.\ Puškino\ muziejus_finansinė\ ataskaita_2019.pdf
+M.\ K.\ Čiurlionio\ namai_finansinė\ ataskaita_2015.pdf
+M.\ K.\ Čiurlionio\ namai_finansinė\ ataskaita_2016.pdf
+M.\ K.\ Čiurlionio\ namai_finansinė\ ataskaita_2017.pdf
+M.\ K.\ Čiurlionio\ namai_finansinė\ ataskaita_2018.pdf
+M.\ K.\ Čiurlionio\ namai_finansinė\ ataskaita_2019.pdf
+M.\ K.\ Čiurlionio\ namai_veiklos\ ataskaita_2015.doc
+M.\ K.\ Čiurlionio\ namai_veiklos\ ataskaita_2016.docx
+M.\ K.\ Čiurlionio\ namai_veiklos\ ataskaita_2017.docx
+M.\ K.\ Čiurlionio\ namai_veiklos\ ataskaita_2018.docx
+M.\ K.\ Čiurlionio\ namai_veiklos\ ataskaita_2018.xlsx
+M.\ K.\ Čiurlionio\ namai_veiklos\ ataskaita_2019.xlsx
+M.\ K.\ Čiurlionio\ namai_veiklos\ ataskaitos\ priedas_2019.docx
+M.\ K.\ Čiurlionio\ namai_veiklos\ planas_2015.doc
+M.\ K.\ Čiurlionio\ namai_veiklos\ planas_2016.doc
+M.\ K.\ Čiurlionio\ namai_veiklos\ planas_2017.docx
+M.\ K.\ Čiurlionio\ namai_veiklos\ planas_2018.xlsx
+M.\ K.\ Čiurlionio\ namai_veiklos\ planas_2019.xlsx
+M.\ K.\ Čiurlionio\ namai_veiklos\ plano\ priedas_2018.docx
+M.\ K.\ Čiurlionio\ namai_veiklos\ plano\ priedas_2019.docx
+Memorialinių\ muziejų\ direkcija_finansinė\ ataskaita_2015.pdf
+Memorialinių\ muziejų\ direkcija_finansinė\ ataskaita_2016.pdf
+Memorialinių\ muziejų\ direkcija_finansinė\ ataskaita_2017.pdf
+Memorialinių\ muziejų\ direkcija_finansinė\ ataskaita_2018.pdf
+Memorialinių\ muziejų\ direkcija_finansinė\ ataskaita_2019.pdf
+Memorialinių\ muziejų\ direkcija_veiklos\ ataskaita_2015.doc
+Memorialinių\ muziejų\ direkcija_veiklos\ ataskaita_2016.docx
+Memorialinių\ muziejų\ direkcija_veiklos\ ataskaita_2017.docx
+Memorialinių\ muziejų\ direkcija_veiklos\ ataskaita_2018.xlsx
+Memorialinių\ muziejų\ direkcija_veiklos\ ataskaita_2019.xlsx
+Memorialinių\ muziejų\ direkcija_veiklos\ ataskaitos\ priedas_2018.docx
+Memorialinių\ muziejų\ direkcija_veiklos\ ataskaitos\ priedas_2019.docx
+Memorialinių\ muziejų\ direkcija_veiklos\ planas_2015.doc
+Memorialinių\ muziejų\ direkcija_veiklos\ planas_2016.doc
+Memorialinių\ muziejų\ direkcija_veiklos\ planas_2017.doc
+Memorialinių\ muziejų\ direkcija_veiklos\ planas_2018.xlsx
+Memorialinių\ muziejų\ direkcija_veiklos\ planas_2019.xlsx
+Memorialinių\ muziejų\ direkcija_veiklos\ plano\ priedas_2018.docx
+Memorialinių\ muziejų\ direkcija_veiklos\ plano\ priedas_2019.docx
 Menų\ spaustuvė_veiklos\ ataskaita_2015.doc
 Menų\ spaustuvė_veiklos\ ataskaita_2016.doc
 Menų\ spaustuvė_veiklos\ ataskaita_2018.doc
@@ -60,10 +230,11 @@ Mokytoju\ namai_veiklos\ rezultatu\ ataskaita_2016.xlsx
 Mokytoju\ namai_veiklos\ rezultatu\ ataskaita_2017.xlsx
 Mokytoju\ namai_veiklos\ rezultatu\ ataskaita_2018.xlsx
 Mokytoju\ namai_veiklos\ rezultatu\ ataskaita_2019.xlsx
+Naujosios\ Vilnios\ kultūros\ centras_veiklos\ ataskaita_2016.pdf
 Skalvijos\ kino\ centras_Aiskinamasis\ rastas_2015.doc
 Skalvijos\ kino\ centras_Aiskinamasis\ rastas_2016.doc
-Skalvijos\ kino\ centras_aiskinamasis\ rastas_2017.doc
-Skalvijos\ kino\ centras_aiskinamasis\ rastas_2019.doc
+Skalvijos\ kino\ centras_Aiskinamasis\ rastas_2017.doc
+Skalvijos\ kino\ centras_Aiskinamasis\ rastas_2019.doc
 Skalvijos\ kino\ centras_veiklos\ ataskaita_2015.docx
 Skalvijos\ kino\ centras_veiklos\ ataskaita_2016.doc
 Skalvijos\ kino\ centras_veiklos\ ataskaitos\ priedas_2019.doc
@@ -76,10 +247,10 @@ Skalvijos\ kino\ centras_veiklos\ planas_2019.xlsx
 Skalvijos\ kino\ centras_veiklos\ planas_2020.xlsx
 Skalvijos\ kino\ centras_veiklos\ plano\ priedas_2019.docx
 Skalvijos\ kino\ centras_veiklos\ plano\ priedas_2020.docx
-Skalvijos\ kino\ centras_veiklos\ rezultatu\ ataskaita_2015.xls
+Skalvijos\ kino\ centras_Veiklos\ rezultatu\ ataskaita_2015.xls
 Skalvijos\ kino\ centras_veiklos\ rezultatu\ ataskaita_2016.xls
-Skalvijos\ kino\ centras_veiklos\ rezultatu\ ataskaita_2017.xls
-Skalvijos\ kino\ centras_veiklos\ rezultatu\ ataskaita_2018.xls
+Skalvijos\ kino\ centras_Veiklos\ rezultatu\ ataskaita_2017.xls
+Skalvijos\ kino\ centras_Veiklos\ rezultatu\ ataskaita_2018.xls
 Skalvijos\ kino\ centras_veiklos\ rezultatu\ ataskaita_2019.xls
 Skalvijos\ kino\ centro_veiklos\ ataskaita_2019.doc
 Traku\ vokes\ dvaro\ sodyba_veiklos\ ataskaita_2015.doc
@@ -111,11 +282,11 @@ Vaiku\ ir\ jaunimo\ meno\ galerija_veiklos\ rezultatu\ ataskaita_2015.xls
 Vaiku\ ir\ jaunimo\ meno\ galerija_veiklos\ rezultatu\ ataskaita_2017.xls
 Vaiku\ ir\ jaunimo\ meno\ galerija_veiklos\ rezultatu\ ataskaita_2019.xls
 Vilniaus\ festivaliai_aiskinamasis\ rastas_2018.doc
-Vilniaus\ festivaliai_aiskinamasis\ rastas_2019.doc
-Vilniaus\ festivaliai_veiklos\ ataskaita_2016.docx
-Vilniaus\ festivaliai_veiklos\ ataskaita_2017.docx
-Vilniaus\ festivaliai_veiklos\ ataskaita_2018.docx
-Vilniaus\ festivaliai_veiklos\ ataskaita_2019.docx
+Vilniaus\ festivaliai_Aiskinamasis\ rastas_2019.doc
+Vilniaus\ festivaliai_Veiklos\ ataskaita_2016.docx
+Vilniaus\ festivaliai_Veiklos\ ataskaita_2017.docx
+Vilniaus\ festivaliai_Veiklos\ ataskaita_2018.docx
+Vilniaus\ festivaliai_Veiklos\ ataskaita_2019.docx
 Vilniaus\ Jeruzales\ skulpturu\ sodas_veiklos\ ataskaita_2016.pdf
 Vilniaus\ Jeruzales\ skulpturu\ sodas_veiklos\ ataskaita_2018.pdf
 Vilniaus\ Jeruzales\ skulpturu\ sodas_veiklos\ ataskaita_2019.pdf
@@ -133,8 +304,8 @@ Vilniaus\ kino\ biuras_veiklos\ rezultatu\ ataskaita_2015.xls
 Vilniaus\ kino\ biuras_veiklos\ rezultatu\ ataskaita_2016.xls
 Vilniaus\ kino\ biuras_veiklos\ rezultatu\ ataskaita_2017.xls
 Vilniaus\ rotušė_veiklos\ ataskaita_2016.docx
-Vilniaus\ rotušė_veiklos\ ataskaitos\ priedas_2019.docx
-Vilniaus\ rotušė_veiklos\ planas_2020.xls
+Vilniaus\ rotušė_Veiklos\ ataskaitos\ priedas_2019.docx
+Vilniaus\ rotušė_Veiklos\ planas_2020.xls
 Vilniaus\ rotušė_veiklos\ rezultatu\ ataskaita_2016.xls
 Vilniaus\ rotušė_veiklos\ rezultatu\ ataskaita_2017.xls
 Vilniaus\ rotušė_veiklos\ rezultatu\ ataskaita_2018.xlsx
