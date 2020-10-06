@@ -22,28 +22,28 @@ Centrinė\ biblioteka_finansinė\ ataskaita_2019.pdf
 Centrinė\ biblioteka_veiklos\ ataskaita_2015.doc
 Centrinė\ biblioteka_veiklos\ ataskaita_2016.docx
 Centrinė\ biblioteka_veiklos\ ataskaita_2017.docx
-Centrinės\ bibliotekos_veiklos\ ataskaita_2018.xlsx
-Centrinės\ bibliotekos_veiklos\ ataskaita_2019.xlsx
-Centrinės\ bibliotekos_veiklos\ ataskaitos\ priedas_2019.docx
-Centrinės\ bibliotekos_veiklos\ planas_2015.doc
-Centrinės\ bibliotekos_veiklos\ planas_2016.doc
-Centrinės\ bibliotekos_veiklos\ planas_2017.docx
-Centrinės\ bibliotekos_veiklos\ planas_2018.xlsx
-Centrinės\ bibliotekos_veiklos\ planas_2019.xlsx
-Centrinės\ bibliotekos_veiklos\ plano\ priedas_2018.docx
-Centrinės\ bibliotekos_veiklos\ plano\ priedas_2019.docx
-Centrinės\ bibliotekos_veiklos\ rezultatų\ ataskaita_2018.docx
-Choro\ Jauna\ muzika_veiklos\ ataskaita_2016.docx
-Choro\ Jauna\ muzika_veiklos\ ataskaita_2016.pdf
-Choro\ Jauna\ muzika_veiklos\ ataskaita_2017.docx
-Choro\ Jauna\ muzika_veiklos\ ataskaita_2017.xlsx
-Choro\ Jauna\ muzika_veiklos\ ataskaita_2018.xlsx
-Choro\ Jauna\ muzika_veiklos\ ataskaita_2019.xlsx
-Choro\ Jauna\ muzika_veiklos\ planas_2015.pdf
-Choro\ Jauna\ muzika_veiklos\ planas_2016.pdf
-Choro\ Jauna\ muzika_veiklos\ planas_2017.pdf
-Choro\ Jauna\ muzika_veiklos\ planas_2018.xlsx
-Choro\ Jauna\ muzika_veiklos\ planas_2019.xlsx
+Centrinė\ biblioteka_veiklos\ ataskaita_2018.xlsx
+Centrinė\ biblioteka_veiklos\ ataskaita_2019.xlsx
+Centrinė\ biblioteka_veiklos\ ataskaitos\ priedas_2019.docx
+Centrinė\ biblioteka_veiklos\ planas_2015.doc
+Centrinė\ biblioteka_veiklos\ planas_2016.doc
+Centrinė\ biblioteka_veiklos\ planas_2017.docx
+Centrinė\ biblioteka_veiklos\ planas_2018.xlsx
+Centrinė\ biblioteka_veiklos\ planas_2019.xlsx
+Centrinė\ biblioteka_veiklos\ plano\ priedas_2018.docx
+Centrinė\ biblioteka_veiklos\ plano\ priedas_2019.docx
+Centrinė\ biblioteka_veiklos\ rezultatų\ ataskaita_2018.docx
+Choras\ Jauna\ muzika_veiklos\ ataskaita_2016.docx
+Choras\ Jauna\ muzika_veiklos\ ataskaita_2016.pdf
+Choras\ Jauna\ muzika_veiklos\ ataskaita_2017.docx
+Choras\ Jauna\ muzika_veiklos\ ataskaita_2017.xlsx
+Choras\ Jauna\ muzika_veiklos\ ataskaita_2018.xlsx
+Choras\ Jauna\ muzika_veiklos\ ataskaita_2019.xlsx
+Choras\ Jauna\ muzika_veiklos\ planas_2015.pdf
+Choras\ Jauna\ muzika_veiklos\ planas_2016.pdf
+Choras\ Jauna\ muzika_veiklos\ planas_2017.pdf
+Choras\ Jauna\ muzika_veiklos\ planas_2018.xlsx
+Choras\ Jauna\ muzika_veiklos\ planas_2019.xlsx
 document_list.txt
 Energetikos\ ir\ technikos\ muziejus_veiklos\ ataskaita_2015.doc
 Energetikos\ ir\ technikos\ muziejus_veiklos\ ataskaita_2016.docx
